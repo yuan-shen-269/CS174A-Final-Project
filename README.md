@@ -13,13 +13,13 @@ $ git clone https://github.com/yuan-shen-269/The-Maze.git
 $ cd The-Maze
 ```
 
-To Maximize experience, we will run a fake server
-- For Mac User
+To Maximize experience, we will run a fake server.
+- For Mac User:
 ```
 $ chmod 777 host.bat
 $ ./host.bat
 ```
-- For Windows User
+- For Windows User:
 ```
 $ chmod 777 host.command
 $ ./host command
