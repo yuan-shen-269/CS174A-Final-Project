@@ -31,8 +31,8 @@ $ ./host command
 
 ### How to Play
 
-To start the game, first press the Start Game button. 
-6 keys are used for basic operations:
+- To start the game, first press the Start Game button. 
+- 6 keys are used for basic operations:
   ```
   W - Foward 
   A - Back 
@@ -45,21 +45,21 @@ To start the game, first press the Start Game button.
   O - Open door
   ```
   
-3 keys are used to change perspectives:
+- 3 keys are used to change perspectives:
   ```
   F - First-person perspective
   T - Third-person perspective
   G - Global perspective
   ```
 
-Once the player has a move, the timer is triggered to record the time. 
+- Once the player has a move, the timer is triggered to record the time. 
 
-The player has to keep away from the monsters and goes across the obstacles. Every time the player runs into a monster or an obstacle, the player will lose one life, and the player will die if all there is no live available. 
+- The player has to keep away from the monsters and goes across the obstacles. Every time the player runs into a monster or an obstacle, the player will lose one life, and the player will die if all there is no live available. 
 
-During the game, the player has to find all the keys and open the doors. 
+- During the game, the player has to find all the keys and open the doors. 
 `Notice: there are two keys in the maze, each for its corresponding door, you need to figure out which ones are paired.` 
 
-There is a red flag placed at the exit, as soon as the player touches the flag, the timer is stopped and the winning scene will pop up.
+- There is a red flag placed at the exit, as soon as the player touches the flag, the timer is stopped and the winning scene will pop up.
 
 ### Advanced Features
 
