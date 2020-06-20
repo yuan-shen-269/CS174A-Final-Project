@@ -1,4 +1,4 @@
-# The Maze by Maze Squad
+# The Maze
 
 ### Overview
 
