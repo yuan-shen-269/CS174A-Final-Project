@@ -69,16 +69,6 @@ There is a red flag placed at the exit, as soon as the player touches the flag, 
 
 ### Individual Roles
 
-#### Ziyan Wang
-
-- Built the prototype of the maze.
-- Implemented the movement control of the player (WASD, jump/squat, turn left/right)
-- Added collision detection with the wall and obstacles (spikes, monsters, and doors)
-- Implemented the first person, third person, and global camera perspectives.
-- Built the health system for the player and updated the health for each frame.
-- Refined the movement of the monster in the maze.
-- Refined the animation of the door opening.
-
 #### Yuan Shen
 
 - Constructed the model of the monsters and implemented the movement of their arms and legs.
@@ -89,6 +79,16 @@ There is a red flag placed at the exit, as soon as the player touches the flag, 
 - Implemented two test mode: 
   * Invincible mode where the player will not lose any life.
   * Walk-through mode where the player can go through all the walls and doors.
+
+#### Ziyan Wang
+
+- Built the prototype of the maze.
+- Implemented the movement control of the player (WASD, jump/squat, turn left/right)
+- Added collision detection with the wall and obstacles (spikes, monsters, and doors)
+- Implemented the first person, third person, and global camera perspectives.
+- Built the health system for the player and updated the health for each frame.
+- Refined the movement of the monster in the maze.
+- Refined the animation of the door opening.
 
 #### Wenxuan Liu
 
