@@ -7,10 +7,28 @@
 Our **maze game** allows people to use keystrokes to walk in a 3D maze, in which the player needs to find keys, open gates, and find the exit. When exploring in the maze, the player will meet moving monsters and obstacles which could possibly wound the player. For each round, the player has three lives, and there is a timer to record how much time the player spent to finish the maze. There are three perspectives: first-person, third person, and global perspectives, each has different advantages when playing. Also, sounds are played when the player is performing different actions. 
 
 ### Usage
+Download Files
 ```
-$ git clone https://github.com/yuan-shen-269/The-Maze
-$ cd The Maze
+$ git clone https://github.com/yuan-shen-269/The-Maze.git
+$ cd The-Maze
 ```
+
+To Maximize experience, we will run a fake server
+- For Mac User
+```
+$ chmod 777 host.bat
+$ ./host.bat
+```
+- For Windows User
+```
+$ chmod 777 host.command
+$ ./host command
+```
+If succeeed, you will see "Serving HTTP on 0.0.0.0 port 8000 ..." on the console.
+
+Keep the console open, and open a new window of Google Chrome.
+Navigate Chrome to http://localhost:8000/, you will now be able to play the game.
+
 
 ### How to Play
 
