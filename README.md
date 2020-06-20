@@ -25,6 +25,7 @@ $ chmod 777 host.command
 $ ./host command
 ```
 If succeeed, you will see "Serving HTTP on 0.0.0.0 port 8000 ..." on the console.
+
 3. Keep the console open, and open a new window of Google Chrome. Navigate Chrome to http://localhost:8000/, you will now be able to play the game.
 
 
