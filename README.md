@@ -6,6 +6,12 @@
 
 Our **maze game** allows people to use keystrokes to walk in a 3D maze, in which the player needs to find keys, open gates, and find the exit. When exploring in the maze, the player will meet moving monsters and obstacles which could possibly wound the player. For each round, the player has three lives, and there is a timer to record how much time the player spent to finish the maze. There are three perspectives: first-person, third person, and global perspectives, each has different advantages when playing. Also, sounds are played when the player is performing different actions. 
 
+### Usage
+```
+$ git clone https://github.com/yuan-shen-269/The-Maze
+$ cd The Maze
+```
+
 ### How to Play
 
 To start the game, first press the Start Game button. 
